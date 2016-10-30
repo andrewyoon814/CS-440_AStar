@@ -1,0 +1,13 @@
+File Name is: maze_No_2.txt
+Start coordinate is: {100,100}
+Goal coordinate is: {98,100}
+End
+{98,100}
+{98,99}
+{98,98}
+{99,98}
+{100,98}
+{100,99}
+{100,100}
+Start
+Total steps are: 6
