@@ -8,5 +8,7 @@ We were given the start and goal and told to print out our steps to an output fi
 
 My solution matched the professor's solution in the number of steps in took to reach the goal!
 
-maze_No_1, start point is (1,1) and goal is (78,47)
-maze_No_2, start point is (101,101) and goal is (1,53)
+
+maze_No_1, start point is (1,1) and goal is (78,47).
+
+maze_No_2, start point is (101,101) and goal is (1,53).
